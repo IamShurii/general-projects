@@ -28,7 +28,7 @@ int main(int argc, char *argv[])
     }
     else
     {
-        printf("./ceasar key\n");
+        printf("./cesar key\n");
         return 1;
     }
 
